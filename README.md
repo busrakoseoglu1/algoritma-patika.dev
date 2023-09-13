@@ -133,7 +133,7 @@ Big-O gösterimini yazınız.</p>
 
     <li>[8] | [12, 22]</li> 
 
-  </ul></li> 
+  </ul>
 
   <li>Bölünmüş dizileri sıralı bir şekilde birleştiririz.<br> 
 
